@@ -28,8 +28,7 @@ source ~/.bashrc
 
 # Clone Neovim configuration
 git clone https://github.com/pinugit/my-neovim-config.git ~/.config/nvim
-
-
+rm lazygit.tar.gz ripgrep_14.1.0-1_amd64.deb nvim-linux64.tar.gz install.sh
 
 # Launch Neovim
 nvim
