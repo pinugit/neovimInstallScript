@@ -26,7 +26,7 @@ sudo tar -C /opt -xzf nvim-linux64.tar.gz
 echo 'export PATH="$PATH:/opt/nvim-linux64/bin"' >> ~/.bashrc
 
 # Clone Neovim configuration
-git clone https://github.com/pinugit/my-neovim-config.git ~/.config/nvim
+git clone https://github.com/pinugit/my-astrovim-config.git ~/.config/nvim
 
 # Launch Neovim
 nvim
